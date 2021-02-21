@@ -1,0 +1,5 @@
+id=3, name=li, major=English, grade=3872.0
+id=5, name=Kahlid, major=Software, grade=2993.0
+id=2, name=Said, major=Art, grade=2726.0
+id=1, name=Ahmed, major=Arbic, grade=2376.0
+id=4, name=mohmmed, major=It, grade=2179.5
