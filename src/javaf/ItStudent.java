@@ -5,10 +5,7 @@
  */
 package javaf;
 
-/**
- *
- * @author youm7
- */
+
 public class ItStudent extends Student {
 
     public ItStudent(int id, String neme, String major) {
